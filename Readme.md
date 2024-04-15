@@ -1,0 +1,3 @@
+## Welcome to 20 Project of Faraz
+Here is 20 projects of every programming language i have learned till now.
+I will keep posting...
